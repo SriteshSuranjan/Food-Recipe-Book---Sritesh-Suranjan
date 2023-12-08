@@ -30,5 +30,4 @@ JavaScript (index.js):
 - The `getRecipes` function fetches recipes from the Spoonacular API.
 - The `init` function initializes the webpage by fetching and displaying recipes.
 
-GitHub Description:
 This repository contains the code for a Food Recipe Book webpage. It dynamically fetches recipes from the Spoonacular API and displays them in a visually appealing format. Each recipe item includes an image, title, ingredients, and a link to view the full recipe. The dark theme and responsive design enhance the user experience. Explore the code to customize and integrate this recipe book into your web projects.
